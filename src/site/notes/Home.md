@@ -3,4 +3,5 @@
 ---
 
 
-here is my home note
+Hey there, this is where I'll be posting my public obsidian notes!
+
