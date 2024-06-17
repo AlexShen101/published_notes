@@ -4,8 +4,8 @@
 
 
 To assess the running time of an algorithm, there are 2 approaches:
-1. [[notes/posteriori testing\|posteriori testing]]: Creating an executable program of the algorithm, and running it with a series of tests
-2. [[notes/priori analysis\|priori analysis]]: Analyzing a theoretical pseudocode of the algorithm using an ideal computer model
+1. [[extra notes/posteriori testing\|posteriori testing]]: Creating an executable program of the algorithm, and running it with a series of tests
+2. [[extra notes/priori analysis\|priori analysis]]: Analyzing a theoretical pseudocode of the algorithm using an ideal computer model
 
 ## Priori Analysis
 Priori analysis is a method of determining the running time and space requirements of an algorithm by analyzing its theoretical behavior. This analysis is performed with respect to a theoretical computer model, such as the [[random access machine model\|random access machine model]]. Since priori analysis is based on a theoretical algorithm, it is both language-independent and hardware-independent.
