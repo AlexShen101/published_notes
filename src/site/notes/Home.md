@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2024-01-28T17:25:41.506-05:00","updated":"2024-06-11T00:05:57.163-04:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2024-01-28T17:25:41.506-05:00","updated":"2024-06-17T18:13:40.216-04:00"}
 ---
 
 
 Hey there, this is where I'll be posting my public obsidian notes!
 
-### Recent Posts
+### Recent Updates
 | File                                                                                                                                                                       | Modified Date           |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
 | [[notes/priori analysis\|priori analysis]]                                                                                                                              | 6:01 PM - June 17, 2024 |
