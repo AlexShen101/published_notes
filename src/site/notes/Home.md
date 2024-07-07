@@ -8,6 +8,8 @@ Hey there, this is where I'll be posting my public obsidian notes!
 ### Recent Updates
 | File                                                                                                                                                                       | Modified Date            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[blog/Understanding Skip Lists\|Understanding Skip Lists]]                                                                                                             | 8:42 PM - July 06, 2024  |
+| [[blog/Implementing Helper Functions in MIPS\|Implementing Helper Functions in MIPS]]                                                                                   | 10:19 PM - June 21, 2024 |
 | [[blog/Representing Numbers in Computers\|Representing Numbers in Computers]]                                                                                           | 10:41 PM - June 17, 2024 |
 | [[extra notes/priori analysis\|priori analysis]]                                                                                                                        | 6:01 PM - June 17, 2024  |
 | [[blog/Understanding Algorithm Efficiency With Priori Analysis and Posteriori Testing\|Understanding Algorithm Efficiency With Priori Analysis and Posteriori Testing]] | 6:01 PM - June 17, 2024  |
