@@ -8,8 +8,8 @@ Hey there, this is where I'll be posting my public obsidian notes!
 ### Recent Updates
 | File                                                                                                                                                                              | Modified Date               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[test folder/Leetcode 215 - kth largest element in an array\|Leetcode 215 - kth largest element in an array]]                                                                 | 10:40 PM - October 12, 2024 |
-| [[test folder/Leetcode 621 - task scheduler\|Leetcode 621 - task scheduler]]                                                                                                   | 10:37 PM - October 12, 2024 |
+| [[test folder/Leetcode 621 - task scheduler\|Leetcode 621 - task scheduler]]                                                                                                   | 11:01 PM - October 12, 2024 |
+| [[test folder/Leetcode 215 - kth largest element in an array\|Leetcode 215 - kth largest element in an array]]                                                                 | 11:01 PM - October 12, 2024 |
 | [[test folder/Leetcode 90 - Subsets II\|Leetcode 90 - Subsets II]]                                                                                                             | 10:36 PM - October 12, 2024 |
 | [[test folder/Understanding Skip Lists\|Understanding Skip Lists]]                                                                                                             | 8:42 PM - July 06, 2024     |
 | [[test folder/Implementing Helper Functions in MIPS\|Implementing Helper Functions in MIPS]]                                                                                   | 10:19 PM - June 21, 2024    |
