@@ -1,0 +1,17 @@
+---
+{"dg-publish":true,"permalink":"/my-notes/leetcode-417-pacific-atlantic-water-flow/","created":"2024-10-15T19:58:14.716-04:00","updated":"2024-10-15T19:58:25.786-04:00"}
+---
+
+
+tags:: 
+type:: Leetcode_Solution
+in:: [[Algorithms MOC\|Algorithms MOC]]
+
+
+# Leetcode 417 - pacific atlantic water flow
+
+- make two sets containing coords
+- one of them will contain all tiles which can reach the pacific
+- one of them will contain all tiles which can reach the atlantic
+- use graph DFS traversal to find all tiles that are added to each set
+- return the set intersection
