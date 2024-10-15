@@ -8,8 +8,10 @@ Hey there, this is where I'll be posting my public obsidian notes!
 ### Recent Updates
 | File                                                                                                                                                                           | Modified Date               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
+| [[Algorithms MOC\|Algorithms MOC]]                                                                                                                                          | 7:58 PM - October 15, 2024  |
+| [[my notes/Leetcode 417 - pacific atlantic water flow\|Leetcode 417 - pacific atlantic water flow]]                                                                         | 7:58 PM - October 15, 2024  |
+| [[my notes/Leetcode 207 - Course Schedule\|Leetcode 207 - Course Schedule]]                                                                                                 | 7:55 PM - October 15, 2024  |
 | [[my notes/Leetcode 198 - house robber\|Leetcode 198 - house robber]]                                                                                                       | 11:58 PM - October 14, 2024 |
-| [[Algorithms MOC\|Algorithms MOC]]                                                                                                                                          | 11:40 PM - October 14, 2024 |
 | [[my notes/Leetcode 70 - Climbing Stairs\|Leetcode 70 - Climbing Stairs]]                                                                                                   | 11:36 PM - October 14, 2024 |
 | [[my notes/Leetcode 130 - Surrounded Regions\|Leetcode 130 - Surrounded Regions]]                                                                                           | 11:35 PM - October 14, 2024 |
 | [[my notes/Leetcode 621 - task scheduler\|Leetcode 621 - task scheduler]]                                                                                                   | 11:01 PM - October 12, 2024 |
