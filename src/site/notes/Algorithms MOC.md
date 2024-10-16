@@ -6,6 +6,7 @@
 [[my notes/Floyd's Cycle Detection Algorithm\|Floyd's Cycle Detection Algorithm]]
 
 Leetcode Stuff
+- [[my notes/Leetcode 695 - max area of island\|Leetcode 695 - max area of island]]
 - [[my notes/Leetcode 417 - pacific atlantic water flow\|Leetcode 417 - pacific atlantic water flow]]
 - [[my notes/Leetcode 207 - Course Schedule\|Leetcode 207 - Course Schedule]]
 - [[my notes/Leetcode 198 - house robber\|Leetcode 198 - house robber]]
