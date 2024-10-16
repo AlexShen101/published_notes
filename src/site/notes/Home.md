@@ -8,6 +8,7 @@ Hey there, this is where I'll be posting my public obsidian notes!
 ### Recent Updates
 | File                                                                                                                                                                           | Modified Date               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
+| [[my notes/Leetcode 695 - max area of island\|Leetcode 695 - max area of island]]                                                                                           | 8:34 PM - October 15, 2024  |
 | [[Algorithms MOC\|Algorithms MOC]]                                                                                                                                          | 7:58 PM - October 15, 2024  |
 | [[my notes/Leetcode 417 - pacific atlantic water flow\|Leetcode 417 - pacific atlantic water flow]]                                                                         | 7:58 PM - October 15, 2024  |
 | [[my notes/Leetcode 207 - Course Schedule\|Leetcode 207 - Course Schedule]]                                                                                                 | 7:55 PM - October 15, 2024  |
