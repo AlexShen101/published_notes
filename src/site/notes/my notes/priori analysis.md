@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-notes/priori-analysis/","created":"2024-06-17T18:01:31.978-04:00","updated":"2024-06-17T18:01:57.667-04:00"}
+{"dg-publish":true,"permalink":"/my-notes/priori-analysis/","created":"2024-06-17T17:01:31.978-05:00","updated":"2024-06-17T17:01:57.667-05:00"}
 ---
 
 

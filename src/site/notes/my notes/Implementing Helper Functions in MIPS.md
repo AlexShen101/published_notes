@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-notes/implementing-helper-functions-in-mips/","created":"2024-06-21T22:19:04.784-04:00","updated":"2024-06-21T22:19:35.662-04:00"}
+{"dg-publish":true,"permalink":"/my-notes/implementing-helper-functions-in-mips/","created":"2024-06-21T21:19:04.784-05:00","updated":"2024-06-21T21:19:35.662-05:00"}
 ---
 
 

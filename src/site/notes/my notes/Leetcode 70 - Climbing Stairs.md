@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-notes/leetcode-70-climbing-stairs/","created":"2024-10-14T23:26:40.122-04:00","updated":"2024-10-14T23:36:14.109-04:00"}
+{"dg-publish":true,"permalink":"/my-notes/leetcode-70-climbing-stairs/","created":"2024-10-14T22:26:40.122-05:00","updated":"2024-10-14T22:36:14.109-05:00"}
 ---
 
 

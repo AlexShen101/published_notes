@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-notes/understanding-algorithm-efficiency-with-priori-analysis-and-posteriori-testing/","created":"2024-06-17T17:58:46.707-04:00","updated":"2024-06-17T18:01:32.009-04:00"}
+{"dg-publish":true,"permalink":"/my-notes/understanding-algorithm-efficiency-with-priori-analysis-and-posteriori-testing/","created":"2024-06-17T16:58:46.707-05:00","updated":"2024-06-17T17:01:32.009-05:00"}
 ---
 
 

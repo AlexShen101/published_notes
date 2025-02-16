@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-notes/representing-numbers-in-computers/","created":"2024-06-17T22:40:55.696-04:00","updated":"2024-06-17T22:41:13.057-04:00"}
+{"dg-publish":true,"permalink":"/my-notes/representing-numbers-in-computers/","created":"2024-06-17T21:40:55.696-05:00","updated":"2024-06-17T21:41:13.057-05:00"}
 ---
 
 

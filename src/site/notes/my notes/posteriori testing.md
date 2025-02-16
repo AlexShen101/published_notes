@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-notes/posteriori-testing/","created":"2024-06-17T17:59:36.051-04:00","updated":"2024-06-17T18:00:03.939-04:00"}
+{"dg-publish":true,"permalink":"/my-notes/posteriori-testing/","created":"2024-06-17T16:59:36.051-05:00","updated":"2024-06-17T17:00:03.939-05:00"}
 ---
 
 

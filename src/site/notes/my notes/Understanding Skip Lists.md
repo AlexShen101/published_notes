@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-notes/understanding-skip-lists/","created":"2024-07-06T20:41:57.136-04:00","updated":"2024-07-06T20:42:29.562-04:00"}
+{"dg-publish":true,"permalink":"/my-notes/understanding-skip-lists/","created":"2024-07-06T19:41:57.136-05:00","updated":"2024-07-06T19:42:29.562-05:00"}
 ---
 
 
