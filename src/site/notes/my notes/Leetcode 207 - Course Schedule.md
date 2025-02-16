@@ -5,7 +5,7 @@
 
 tags:: 
 type:: Leetcode_Solution
-in:: [[Algorithms MOC\|Algorithms MOC]]
+in:: [[Home/Algorithms MOC\|Algorithms MOC]]
 
 ### Leetcode 207 - Course Schedule
 - make a prereq map that does crs -> array of all prereqs

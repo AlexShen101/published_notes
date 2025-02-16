@@ -5,7 +5,7 @@
 
 tags:: 
 type:: Leetcode_Solution
-in:: [[Algorithms MOC\|Algorithms MOC]]
+in:: [[Home/Algorithms MOC\|Algorithms MOC]]
 
 ### Leetcode 3 - Longest Substring Wtihout Repeating Characters
 - sliding window

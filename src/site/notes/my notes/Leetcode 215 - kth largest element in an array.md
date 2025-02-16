@@ -5,7 +5,7 @@
 
 tags:: 
 type:: Leetcode_Solution
-in:: [[Algorithms MOC\|Algorithms MOC]]
+in:: [[Home/Algorithms MOC\|Algorithms MOC]]
 
 
 use a min heap storing k elements
