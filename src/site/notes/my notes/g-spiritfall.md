@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-notes/g-spiritfall/","created":"2025-02-16T16:25:00.350-06:00","updated":"2025-02-16T22:10:41.260-06:00"}
+{"dg-publish":true,"permalink":"/my-notes/g-spiritfall/","created":"2025-02-16T16:25:00.350-06:00","updated":"2025-02-17T11:46:50.304-06:00"}
 ---
 
 in:: <% tp.file.cursor(2) %>
@@ -47,10 +47,21 @@ how do you deal with blightborn stages or shields?
 best run: stray souls 0
 
 ## quad gauntlets
-easy to string together attacks and the attacks cover a decently wide area, which lets you combo enemies.
-really struggles with shielded enemies just punching you back since you have to be close to hit them and can't stunlock them with combos, so boss fights can be tough
+easy to string together attacks and the attacks cover a decently wide area, which lets you combo enemies
+really struggles with shielded enemies just punching you back since you have to be close to hit them and can't stunlock them with combos, so you'll need something to solve that (shatter synergy, launcher enchant or down attack enchant )
 
-best run: stray souls 2
+for blightborn stages just beat the shit out of the enemy and then launcher them, or combo them offstage to kill
+
+with some good blessings you can really melt enemies
+- Navolik 
+	- dash blessing lets you position quickly and attack faster, improving attack blessing
+	- gaunlet groups and stunlocks enemies, so overcharge or ion loop can deal a ton of aoe damage
+- Mishved
+	- icicle blessing gets triggered really fast on down attack
+	- shatter synergy solves shields
+
+best run: stray souls 9
+![](https://i.imgur.com/tbKVc6S.jpeg)
 
 ## big gauntlets
 feels really good to use
