@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-notes/g-spiritfall/","created":"2025-02-16T16:25:00.350-06:00","updated":"2025-02-17T11:46:50.304-06:00"}
+{"dg-publish":true,"permalink":"/my-notes/g-spiritfall/","created":"2025-02-16T16:25:00.350-06:00","updated":"2025-02-17T13:06:15.441-06:00"}
 ---
 
 in:: <% tp.file.cursor(2) %>
@@ -41,10 +41,16 @@ best run: stray souls 0
 best run: stray souls 0
 
 ## dual swords
-feels very sweet spot dependent to deal damage. very fast and mobile, but doesn't have a launcher that throws enemies far (for wall splats or blightborn stages)
-how do you deal with blightborn stages or shields?
+very fast and mobile, kind of similar to quad gauntlets except launcher is a dash instead of a heavy attack
+need to find a solution for shields
 
-best run: stray souls 0
+struggles heavily against blightborns because you have no heavy attacks. hopefully you have a strong bolt or ultimate, or combo launchers and air attacks
+
+same blessings that are good for quad gaunlets work for this as well
+
+best run: stray souls 9
+![](https://i.imgur.com/IZJhbWw.jpeg)
+
 
 ## quad gauntlets
 easy to string together attacks and the attacks cover a decently wide area, which lets you combo enemies
