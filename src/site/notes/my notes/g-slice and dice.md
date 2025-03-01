@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/my-notes/g-slice-and-dice/","created":"2025-02-15T23:24:40.748-06:00","updated":"2025-02-15T23:26:02.150-06:00"}
+{"dg-publish":true,"permalink":"/my-notes/g-slice-and-dice/","created":"2025-02-15T23:24:40.748-06:00","updated":"2025-03-01T11:15:55.909-06:00"}
 ---
 
-in:: <% tp.file.cursor(2) %>
 tags:: #game 
 
 pretty fun pocket game

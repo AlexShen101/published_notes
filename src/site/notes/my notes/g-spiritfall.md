@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/my-notes/g-spiritfall/","created":"2025-02-16T16:25:00.350-06:00","updated":"2025-02-17T13:06:15.441-06:00"}
+{"dg-publish":true,"permalink":"/my-notes/g-spiritfall/","created":"2025-02-16T16:25:00.350-06:00","updated":"2025-03-01T11:15:50.160-06:00"}
 ---
 
-in:: <% tp.file.cursor(2) %>
 tags:: #game
 
 very fun roguelite that has brawlhalla-style combat, a slay-the-spire like map, hades boons and roguelite progression systems 

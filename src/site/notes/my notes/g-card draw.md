@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/my-notes/g-card-draw/","created":"2025-02-15T23:20:32.077-06:00","updated":"2025-02-15T23:25:14.971-06:00"}
+{"dg-publish":true,"permalink":"/my-notes/g-card-draw/","created":"2025-02-15T23:20:32.077-06:00","updated":"2025-03-01T11:15:53.558-06:00"}
 ---
 
-in:: <% tp.file.cursor(2) %>
 tags:: #game
 
 https://store.steampowered.com/app/3409750/
